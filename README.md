@@ -25,24 +25,28 @@
 
   c. CONCLUSION
   
-    i. An informative, user-friendly website meant to promote mindfulness awareness and highlight the many ways users are able to practice it                  
+    i. An informative, user-friendly website meant to promote mindfulness awareness and highlight the many ways users are able 
+    to practice it                  
 **Website Purpose and Goals**
 
   a. PURPOSE
   
-     i. To serve as a tool for users to learn more about meditation and mindfulness practices, as well as learn how they are able to integrate it into their daily life
+     i. To serve as a tool for users to learn more about meditation and mindfulness practices, as well as learn how they are able 
+     to integrate it into their daily life
     
   b. TARGET AUDIENCE 
   
   
-     i. Individuals struggling with mental health disorders, in particular those who are struggling with anxiety and who are seeking ways to manage it
+     i. Individuals struggling with mental health disorders, in particular those who are struggling with anxiety and who are
+     seeking ways to manage it
   
   c . GOALS 
   
      i. PRIMARY GOALS 
         1. Display different methods of achieving “mindfulness”
         2. Interactive and easy-to-navigate interface for users
-        3. Collaborate with individuals (meditation coaches, lifestyle coaches, soundbath therapists/practitoners) to get content onto website
+        3. Collaborate with individuals (meditation coaches, lifestyle coaches, soundbath therapists/practitoners) to get content 
+	onto website
         
      ii. SECONDARY GOALS 
         1. Set up a YouTube player/playlist within each topic tabs
@@ -94,7 +98,8 @@ c. COLOR CHOICE
 	
 d. FONTS AND TYPOGRAPHY
 
-	i. I haven’t picked a font yet, but I definitely want something bold and captivating. I think something “retro” styled will look great on the end product. 
+	i. I haven’t picked a font yet, but I definitely want something bold and captivating. I think something “retro” styled will 
+	look great on the end product. 
 	
 e. FUNTIONALITY 
 
