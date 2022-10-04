@@ -1,7 +1,6 @@
-The Mindfulness Hub 
+**The Mindfulness Hub
 
-(consciencia, mindful)
-
+**(consciencia, mindful)
 
 
   a. KEY CHARECTERISTICS
@@ -72,22 +71,31 @@ The Mindfulness Hub
       ii. Tools 
           
       
-WEBSITE CONTENT: TEXT AND IMAGES
+**WEBSITE CONTENT: TEXT AND IMAGES
+
 IMAGES
+
 TOOLS
+
 TEXT TEMPLATES
+
 ACCESSIBILITY
 
 
-
-WEBSITE CONTENT: FUNDAMENTALS
+**WEBSITE CONTENT: FUNDAMENTALS
 
 a. SITEMAP
+
 b. LAYOUT CHOICE
 
 c. COLOR CHOICE
+
 	I. Iridescent background with colors I think will look visually appealing to individuals visiting website
+	
 d. FONTS AND TYPOGRAPHY
+
 	i. I haven’t picked a font yet, but I definitely want something bold and captivating. I think something “retro” styled will look great on the end product. 
+	
 e. FUNTIONALITY 
+
 	i. Users will be able to easily navigate through websites through buttons on website format 
