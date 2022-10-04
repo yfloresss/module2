@@ -27,7 +27,7 @@ The Mindfulness Hub
   c. CONCLUSION
   
     i. An informative, user-friendly website meant to promote mindfulness awareness and highlight the many ways users are able to practice it                  
-Website Purpose and Goals
+**Website Purpose and Goals**
 
   a. PURPOSE
   
