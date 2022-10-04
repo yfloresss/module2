@@ -90,7 +90,7 @@ b. LAYOUT CHOICE
 
 c. COLOR CHOICE
 
-	I. Iridescent background with colors I think will look visually appealing to individuals visiting website
+	I. Iridescent background with colors that I think will look visually appealing to individuals visiting website
 	
 d. FONTS AND TYPOGRAPHY
 
