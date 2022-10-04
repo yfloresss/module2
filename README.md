@@ -1,6 +1,6 @@
-**The Mindfulness Hub
+**The Mindfulness Hub**
 
-**(consciencia, mindful)
+**(consciencia, mindful)**
 
 
   a. KEY CHARECTERISTICS
@@ -71,7 +71,7 @@
       ii. Tools 
           
       
-**WEBSITE CONTENT: TEXT AND IMAGES
+**WEBSITE CONTENT: TEXT AND IMAGES**
 
 IMAGES
 
@@ -82,7 +82,7 @@ TEXT TEMPLATES
 ACCESSIBILITY
 
 
-**WEBSITE CONTENT: FUNDAMENTALS
+**WEBSITE CONTENT: FUNDAMENTALS**
 
 a. SITEMAP
 
