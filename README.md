@@ -90,6 +90,8 @@ ACCESSIBILITY
 
 a. SITEMAP
 
+![consciencia Site Map](https://user-images.githubusercontent.com/112715717/194082871-50d7c1e4-f9fe-4609-9e20-a2d9df593eca.png)
+
 b. LAYOUT CHOICE
 
 c. COLOR CHOICE
