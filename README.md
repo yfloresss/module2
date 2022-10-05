@@ -78,15 +78,18 @@
 
 a. IMAGES
 
-	i. 
+	i. https://burst.shopify.com
+	ii. https://www.pexels.com/
 	
 b. TOOLS
-	i.
-	
+
+	i. https://www.lipsum.com
+
 c. TEXT TEMPLATES
 
-	i.
-	
+	i. https://fonts.google.com/
+	ii. https://www.myfonts.com/
+	iii. https://www.myfonts.com/
 d. ACCESSIBILITY
 
 	i. Toggle switch for color contrast 
