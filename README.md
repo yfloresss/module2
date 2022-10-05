@@ -50,7 +50,7 @@
         
      ii. SECONDARY GOALS 
         1. Set up a YouTube player/playlist within each topic tabs
-        2. 
+        2. Video background on homepage
         
    d. MILESTONES 
   
