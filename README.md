@@ -78,15 +78,18 @@
 **WEBSITE CONTENT: TEXT AND IMAGES**
 
 a. IMAGES
+
 	i. 
 	
 b. TOOLS
 	i.
 	
 c. TEXT TEMPLATES
+
 	i.
 	
 d. ACCESSIBILITY
+
 	i. Toggle switch for color contrast 
 	   1. Gives users the ability to toggle between color contrasts across website to help with legibility 
 	ii. 
@@ -98,6 +101,7 @@ a. SITEMAP
 ![consciencia Site Map](https://user-images.githubusercontent.com/112715717/194082871-50d7c1e4-f9fe-4609-9e20-a2d9df593eca.png)
 
 b. LAYOUT CHOICE
+
 	i. 
 	
 c. COLOR CHOICE
