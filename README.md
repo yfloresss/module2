@@ -77,15 +77,20 @@
       
 **WEBSITE CONTENT: TEXT AND IMAGES**
 
-IMAGES
-
-TOOLS
-
-TEXT TEMPLATES
-
-ACCESSIBILITY
-
-
+a. IMAGES
+	i. 
+	
+b. TOOLS
+	i.
+	
+c. TEXT TEMPLATES
+	i.
+	
+d. ACCESSIBILITY
+	i. Toggle switch for color contrast 
+	   1. Gives users the ability to toggle between color contrasts across website to help with legibility 
+	ii. 
+	
 **WEBSITE CONTENT: FUNDAMENTALS**
 
 a. SITEMAP
@@ -93,10 +98,10 @@ a. SITEMAP
 ![consciencia Site Map](https://user-images.githubusercontent.com/112715717/194082871-50d7c1e4-f9fe-4609-9e20-a2d9df593eca.png)
 
 b. LAYOUT CHOICE
-
+	i. 
 c. COLOR CHOICE
 
-	I. Iridescent background with colors that I think will look visually appealing to individuals visiting website
+	i. Iridescent background with colors that I think will look visually appealing to individuals visiting website
 	
 d. FONTS AND TYPOGRAPHY
 
