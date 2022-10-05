@@ -99,6 +99,7 @@ a. SITEMAP
 
 b. LAYOUT CHOICE
 	i. 
+	
 c. COLOR CHOICE
 
 	i. Iridescent background with colors that I think will look visually appealing to individuals visiting website
