@@ -115,5 +115,5 @@ d. FONTS AND TYPOGRAPHY
 	
 e. FUNTIONALITY 
 
-	i. Users will be able to easily navigate through websites through buttons on website format 
+	i. Users will be able to easily navigate through websites through buttons directly on homepage
 
