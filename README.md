@@ -67,7 +67,7 @@
           2. What is the demographic of the people visiting my website?
 
       ii. KPI's - Key Performance Indicator/s
-          e.g number of newsletters
+          1. Number of subscribers from email newsletters
           
    g. ANALYTICS 
     
