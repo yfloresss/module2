@@ -71,9 +71,8 @@
           
    g. ANALYTICS 
     
-      i. googleanalytics.com
-      ii. 
-          
+      i. https://analytics.google.com/analytics/web/provision/#/provision
+      ii. https://gtmetrix.com/         
       
 **WEBSITE CONTENT: TEXT AND IMAGES**
 
@@ -92,7 +91,8 @@ d. ACCESSIBILITY
 
 	i. Toggle switch for color contrast 
 	   1. Gives users the ability to toggle between color contrasts across website to help with legibility 
-	ii. 
+	ii. Text-to-speech
+	   1. Allows users with a visual impairment the ability to turn text to speech 
 	
 **WEBSITE CONTENT: FUNDAMENTALS**
 
