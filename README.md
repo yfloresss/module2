@@ -116,7 +116,7 @@ d. FONTS AND TYPOGRAPHY
 	i. I haven’t picked a font yet, but I definitely want something bold and captivating. I think something “retro” 
 	styled will look great on the end product. 
 	
-e. FUNTIONALITY 
+e. FUNCTIONALITY 
 
 	i. Users will be able to easily navigate through websites through buttons directly on homepage
 
